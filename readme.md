@@ -6,7 +6,7 @@ The very first repository to mark my journey!
 
 👩🏻‍🔧 I have expertice in Sustainable Agriculture Practices and Integrated Pest Management
 
-👀 I’m interested in Data Science
+👀 I’m interested in Smart Farm Ag Tech
 
 🌱 I’m currently learning Programming Language for Data Science
 
