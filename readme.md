@@ -10,6 +10,6 @@ The very first repository to mark my journey!
 
 🌱 I’m currently learning Programming Language for Data Science
 
-💞️ I’m looking to collaborate on Agricultural Data Visualization, Modelling, any Data with/for Sustainable Value
+💞️ I’m looking to collaborate on the development of Agriculture Techonology, Agricultural Data Visualization, Modelling, any Data with/for Sustainable Value
 
 📫 Reach me through : https://www.linkedin.com/in/wihartiop/
