@@ -4,7 +4,7 @@ The very first repository to mark my journey!
 
 👋 Hi, I’m Wiharti!
 
-👩🏻‍🔧 I have expertise in Sustainable Agriculture Practices and Integrated Pest Management
+👩🏻‍🔧 I have expertise in Sustainable Agriculture Practices, Regenerative Agriculture, and Integrated Pest Management
 
 👀 I’m interested in Smart Farm Ag Tech
 
